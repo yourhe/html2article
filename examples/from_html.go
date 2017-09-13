@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/sundy-li/html2article"
+	"github.com/yourhe/html2article"
 )
 
 func main() {
